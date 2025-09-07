@@ -1,0 +1,20 @@
+# IDE
+/.idea/
+
+# Local
+/saves/
+/screenshots/
+/schematics/
+/downloads/
+/defaultconfigs/
+servers.dat
+servers.dat_old
+
+# Cache
+usernamecache.json
+usercache.json
+
+# Logs
+/crash-reports/
+/logs/
+command_history.txt
