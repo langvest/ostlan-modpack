@@ -19,3 +19,7 @@ usercache.json
 /crash-reports/
 /logs/
 command_history.txt
+
+# Embeddium
+/config/embeddium-fingerprint.json
+/config/embeddium-mixins.properties
