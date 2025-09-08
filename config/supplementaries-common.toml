@@ -269,7 +269,7 @@
 		interaction_mode = "BOTH"
 
 	[building.gravel_bricks]
-		enabled = true
+		enabled = false
 
 	[building.slidy_block]
 		enabled = true
