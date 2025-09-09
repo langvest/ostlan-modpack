@@ -26,3 +26,6 @@ command_history.txt
 
 # JEI
 /config/jei/world/
+
+# Mixins
+/.mixin.out/
