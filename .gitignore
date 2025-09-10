@@ -29,3 +29,7 @@ command_history.txt
 
 # Mixins
 /.mixin.out/
+
+# KubeJS
+/rhino.local.properties
+/local/
