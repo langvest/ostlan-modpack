@@ -1,5 +1,6 @@
 # IDE
 /.idea/
+/.vscode/
 
 # Local
 /saves/
@@ -33,3 +34,7 @@ command_history.txt
 # KubeJS
 /rhino.local.properties
 /local/
+/mods/probejs-*.jar
+/.probe/
+/kubejs/config/probe-settings.json
+jsconfig.json
