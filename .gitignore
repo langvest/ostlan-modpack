@@ -38,3 +38,6 @@ command_history.txt
 /.probe/
 /kubejs/config/probe-settings.json
 jsconfig.json
+
+# Development
+/refs/
