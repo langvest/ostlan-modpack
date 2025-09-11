@@ -3,7 +3,7 @@
 	#Toggle Wind Chime Animations
 	Animations = true
 	#Toggle falling Bamboo Leaf particles from Bamboo Wind Chimes
-	"Bamboo Wind Chime Leaf Particles" = true
+	"Bamboo Wind Chime Leaf Particles" = false
 	#Toggle on/off pre 1.20 Bamboo Wind Chime textures
 	"Previous Bamboo Wind Chime texture" = false
 
