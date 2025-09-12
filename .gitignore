@@ -8,6 +8,7 @@
 /schematics/
 /downloads/
 /defaultconfigs/
+/data/
 options.txt
 servers.dat
 servers.dat_old
