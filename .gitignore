@@ -46,3 +46,6 @@ jsconfig.json
 # Exposure photos
 /exposures/
 /exposure_catalog_state.json
+
+# ModernFix
+/modernfix/
