@@ -69,5 +69,5 @@
 	#320/640/960/1280px png image. Be careful with larger frame sizes.
 	#Default: X2
 	#Allowed Values: X1, X2, X3, X4
-	Size = "X3"
+	Size = "X2"
 
