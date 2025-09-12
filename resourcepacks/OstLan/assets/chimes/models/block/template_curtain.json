@@ -1,0 +1,45 @@
+{
+    "render_type": "cutout",
+    "textures": {
+        "curtain": "chimes:block/purple_curtain",
+        "particle": "#curtain"
+    },
+    "elements": [
+        {
+            "from": [3, -6, 3],
+            "to": [3, 10, 13],
+            "rotation": {"angle": 0, "axis": "y", "origin": [3, -6, 3]},
+            "faces": {
+                "east": {"uv": [3, 0, 13, 16], "texture": "#curtain"},
+                "west": {"uv": [3, 0, 13, 16], "texture": "#curtain"}
+            }
+        },
+        {
+            "from": [13, -6, 3],
+            "to": [13, 10, 13],
+            "rotation": {"angle": 0, "axis": "y", "origin": [13, -6, 3]},
+            "faces": {
+                "east": {"uv": [3, 0, 13, 16], "texture": "#curtain"},
+                "west": {"uv": [3, 0, 13, 16], "texture": "#curtain"}
+            }
+        },
+        {
+            "from": [3, -6, 3],
+            "to": [13, 10, 3],
+            "rotation": {"angle": 0, "axis": "y", "origin": [7, -6, 3]},
+            "faces": {
+                "north": {"uv": [3, 0, 13, 16], "texture": "#curtain"},
+                "south": {"uv": [3, 0, 13, 16], "texture": "#curtain"}
+            }
+        },
+        {
+            "from": [3, -6, 13],
+            "to": [13, 10, 13],
+            "rotation": {"angle": 0, "axis": "y", "origin": [7, -6, 13]},
+            "faces": {
+                "north": {"uv": [3, 0, 13, 16], "texture": "#curtain"},
+                "south": {"uv": [3, 0, 13, 16], "texture": "#curtain"}
+            }
+        }
+    ]
+}

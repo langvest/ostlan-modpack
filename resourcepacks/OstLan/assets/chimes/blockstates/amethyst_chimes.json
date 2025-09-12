@@ -1,0 +1,19 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "chimes:block/amethyst_chimes"
+            }
+        },
+        {
+            "when": {
+                "half": "upper"
+            },
+            "apply": [
+                {
+                    "model": "chimes:block/long_hanging_chain"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "chimes:block/template_curtain",
+	"textures": {
+		"curtain": "chimes:block/green_curtain"
+	}
+}

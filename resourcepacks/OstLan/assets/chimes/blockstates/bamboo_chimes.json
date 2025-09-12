@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "chimes:block/bamboo_chimes"
+            }
+        },
+        {
+            "when": {
+                "half": "upper",
+                "tied": "true"
+            },
+            "apply": [
+                {
+                    "model": "chimes:block/green_curtain"
+                }
+            ]
+        }
+    ]
+}

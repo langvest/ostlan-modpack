@@ -1,0 +1,28 @@
+{
+	"render_type": "cutout",
+	"textures": {
+		"chain": "chimes:block/hanging_chain"
+	},
+	"elements": [
+		{
+			"from": [6.5, 11, 8],
+			"to": [9.5, 15, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 1, 1, 5], "texture": "#chain"},
+				"south": {"uv": [1, 1, 4, 5], "texture": "#chain"}
+			}
+		},
+		{
+			"from": [8, 9, 6.5],
+			"to": [8, 16, 9.5],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [1, 6, 4, 13], "texture": "#chain"},
+				"west": {"uv": [4, 6, 1, 13], "texture": "#chain"}
+			}
+		}
+	]
+}

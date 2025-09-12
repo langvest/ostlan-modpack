@@ -1,0 +1,30 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "chimes:block/copper_chimes"
+            }
+        },
+        {
+            "when": {
+                "half": "upper"
+            },
+            "apply": [
+                {
+                    "model": "chimes:block/short_hanging_chain"
+                }
+            ]
+        },
+        {
+            "when": {
+                "half": "upper",
+                "tied": "true"
+            },
+            "apply": [
+                {
+                    "model": "chimes:block/gray_curtain"
+                }
+            ]
+        }
+    ]
+}
