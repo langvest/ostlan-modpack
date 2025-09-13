@@ -2,9 +2,9 @@
   "enableMod": true,
   "onlyDisplayOnBooks": false,
   "onlyDisplayInEnchantingTable": false,
-  "requireKeybindPress": false,
+  "requireKeybindPress": true,
   "indentSize": 0,
   "style": {
-    "color": "dark_gray"
+    "color": "light_purple"
   }
 }
