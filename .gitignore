@@ -25,13 +25,13 @@ command_history.txt
 
 # Embeddium
 /config/embeddium-fingerprint.json
-/config/embeddium-mixins.properties
 
 # JEI
 /config/jei/world/
 
 # Mixins
 /.mixin.out/
+/config/*mixins.properties
 
 # KubeJS
 /rhino.local.properties
