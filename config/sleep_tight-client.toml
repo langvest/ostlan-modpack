@@ -24,7 +24,7 @@
 [dream_essence]
 	#How subtle the effect will be essentially. Set to one for bring fancy particles
 	#Range: 0.0 ~ 1.0
-	particle_alpha = 0.5
+	particle_alpha = 0.4
 	#Affects the plume height. lower to make the plume shorter
 	#Range: 1 ~ 10000
 	particle_lifetime = 120
