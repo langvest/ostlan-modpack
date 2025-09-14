@@ -1,0 +1,35 @@
+{
+	"textures": {
+		"dirt": "block/dirt",
+		"particle": "gravestone:block/grave",
+		"grave": "gravestone:block/grave"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#grave"},
+				"east": {"uv": [14, 0, 16, 16], "texture": "#grave"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#grave"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#grave"},
+				"up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#grave"},
+				"down": {"uv": [0, 14, 16, 16], "rotation": 180, "texture": "#grave"}
+			}
+		},
+		{
+			"from": [0, 0, 2],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 14, 2], "texture": "#dirt"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#dirt"},
+				"west": {"uv": [2, 0, 16, 2], "texture": "#dirt"},
+				"up": {"uv": [0, 0, 16, 14], "rotation": 180, "texture": "#dirt"},
+				"down": {"uv": [0, 2, 16, 16], "rotation": 180, "texture": "#dirt"}
+			}
+		}
+	]
+}
