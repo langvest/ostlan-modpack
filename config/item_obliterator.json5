@@ -23,7 +23,9 @@
     "incubation:scrambled_eggs",
     "createaddition:barbed_wire",
     "createaddition:festive_spool",
-    "createaddition:electrum_amulet"
+    "createaddition:electrum_amulet",
+    "interiors:seatwood_planks",
+    "interiors:wall_mounted_table"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
