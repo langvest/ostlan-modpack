@@ -40,7 +40,7 @@ maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
-biomeBlendRadius:4
+biomeBlendRadius:6
 renderClouds:"true"
 resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","create_alexscaves_compat:cac_textures","file/Create Computers 1.2.1 - 1.20.1 Resource Pack Only.zip","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","file/OstLan"]
 incompatibleResourcePacks:[]
