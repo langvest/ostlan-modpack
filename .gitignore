@@ -25,6 +25,9 @@ command_history.txt
 # Embeddium
 /config/embeddium-fingerprint.json
 
+# Fabric
+/config/fabric/indigo-renderer.properties
+
 # JEI
 /config/jei/world/
 
