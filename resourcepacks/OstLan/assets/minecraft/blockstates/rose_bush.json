@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "block/rose_bush_bottom" },
+			{ "model": "block/rose_bush_bottom_1" },
+			{ "model": "block/rose_bush_bottom_2" }
+		],
+		"half=upper": [
+			{ "model": "block/rose_bush_top" },
+			{ "model": "block/rose_bush_top_1" },
+			{ "model": "block/rose_bush_top_2" }
+		]
+	}
+}

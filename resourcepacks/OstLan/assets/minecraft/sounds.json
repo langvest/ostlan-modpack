@@ -1,0 +1,18 @@
+{
+	"block.clock_tower_bell": {
+		"sounds": [
+			{
+				"name": "block/clock_tower_bell",
+				"stream": true
+			}
+		]
+	},
+	"block.clock_tower": {
+		"sounds": [
+			{
+				"name": "block/clock_tower",
+				"stream": true
+			}
+		]
+	}
+}

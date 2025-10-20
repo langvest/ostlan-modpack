@@ -1,0 +1,56 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/oak_door_top",
+		"bottom": "block/oak_door_bottom",
+		"top": "block/oak_door_top"
+	},
+	"elements": [
+		{
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 3.0, 16.0, 3.0 ],
+			"faces": {
+				"north": { "texture": "#bottom", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+				"east": { "texture": "#bottom", "uv": [ 3.0, 0.0, 0.0, 16.0 ] },
+				"south": { "texture": "#bottom", "uv": [ 16.0, 0.0, 13.0, 16.0 ] },
+				"west": { "texture": "#bottom", "uv": [ 0.0, 0.0, 3.0, 16.0 ] },
+				"down": { "texture": "#bottom", "uv": [ 16.0, 0.0, 13.0, 3.0 ], "rotation": 270 }
+			}
+		},
+		{
+			"from": [ 0.0, 0.0, 13.0 ],
+			"to": [ 3.0, 16.0, 16.0 ],
+			"faces": {
+				"north": { "texture": "#bottom", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+				"east": { "texture": "#bottom", "uv": [ 16.0, 0.0, 13.0, 16.0 ] },
+				"south": { "texture": "#bottom", "uv": [ 16.0, 0.0, 13.0, 16.0 ] },
+				"west": { "texture": "#bottom", "uv": [ 13.0, 0.0, 16.0, 16.0 ] },
+				"down": { "texture": "#bottom", "uv": [ 16.0, 0.0, 13.0, 3.0 ], "rotation": 90 }
+			}
+		},
+		{
+			"from": [ 0.0, 0.0, 3.0 ],
+			"to": [ 3.0, 12.0, 13.0 ],
+			"faces": {
+				"north": { "texture": "#bottom", "uv": [ 13.0, 4.0, 16.0, 16.0 ] },
+				"east": { "texture": "#bottom", "uv": [ 3.0, 4.0, 13.0, 16.0 ] },
+				"south": { "texture": "#bottom", "uv": [ 16.0, 4.0, 12.0, 12.0 ] },
+				"west": { "texture": "#bottom", "uv": [ 13.0, 4.0, 3.0, 16.0 ] },
+				"up": { "texture": "#bottom", "uv": [ 13.0, 4.0, 3.0, 7.0 ], "rotation": 90 },
+				"down": { "texture": "#top", "uv": [ 13.0, 0.0, 3.0, 3.0 ], "rotation": 270 }
+			}
+		},
+		{
+			"from": [ 1.5, 12.0, 3.0 ],
+			"to": [ 1.5, 16.0, 13.0 ],
+			"faces": {
+				"north": { "texture": "#top", "uv": [ 3.0, 5.0, 3.0, 9.0 ] },
+				"east": { "texture": "#bottom", "uv": [ 3.0, 0.0, 13.0, 4.0 ] },
+				"south": { "texture": "#bottom", "uv": [ 0.0, 0.0, 0.0, 4.0 ] },
+				"west": { "texture": "#bottom", "uv": [ 13.0, 0.0, 3.0, 4.0 ] },
+				"up": { "texture": "#bottom", "uv": [ 0.0, 0.0, 0.0, 10.0 ] },
+				"down": { "texture": "#bottom", "uv": [ 0.0, 0.0, 0.0, 10.0 ] }
+			}
+		}
+	]
+}
