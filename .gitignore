@@ -58,3 +58,6 @@ jsconfig.json
 
 # Etched
 /etched-sounds/
+
+# JAR
+/*.jar
