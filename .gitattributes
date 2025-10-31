@@ -1,0 +1,2 @@
+# Any config file should use LF.
+/config/**/*.json text eol=lf
