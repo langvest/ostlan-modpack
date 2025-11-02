@@ -61,6 +61,8 @@ jsconfig.json
 
 # JAR
 /*.jar
+
+# Simple Voice Chat
 /config/voicechat/category-volumes.properties
 /config/voicechat/player-volumes.properties
 /config/voicechat/voicechat-client.properties
