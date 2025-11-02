@@ -61,3 +61,7 @@ jsconfig.json
 
 # JAR
 /*.jar
+/config/voicechat/category-volumes.properties
+/config/voicechat/player-volumes.properties
+/config/voicechat/voicechat-client.properties
+/config/voicechat/username-cache.json
