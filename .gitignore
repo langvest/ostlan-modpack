@@ -67,3 +67,6 @@ jsconfig.json
 /config/voicechat/player-volumes.properties
 /config/voicechat/voicechat-client.properties
 /config/voicechat/username-cache.json
+
+# Sinytra Connector
+/mods/.connector/
