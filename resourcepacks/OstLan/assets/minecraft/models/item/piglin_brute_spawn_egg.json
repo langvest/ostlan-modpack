@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/unique_spawn_egg",
+      "textures": {
+		"0": "item/piglin_brute_spawn_egg",
+		"particle": "item/piglin_brute_spawn_egg"
+	}
+}

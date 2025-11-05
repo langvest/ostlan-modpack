@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/unique_spawn_egg",
+      "textures": {
+		"0": "item/strider_spawn_egg",
+		"particle": "item/strider_spawn_egg"
+	}
+}
